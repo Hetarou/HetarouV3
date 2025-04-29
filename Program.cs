@@ -1,4 +1,4 @@
-
+//確認
 using System;
 
 class Program
